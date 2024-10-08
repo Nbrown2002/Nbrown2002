@@ -1,5 +1,14 @@
 ## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noah Brown
+==================================================================================================================================
 
+Aspiring IT Specialist and Cyber-security Investigator
+------------------------------------------------------
+
+*   🌍  I'm based in Florence, AL
+*   ✉️  You can contact me at [nbofficial02@gmail.com](mailto:nbofficial02@gmail.com )
+*   🧠  I'm learning Web Development, Database Modeling, and Advanced Infrastructure
+*   🤝  I'm open to collaborating on Games, Apps, and more
 <!--
 **Nbrown2002/Nbrown2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
