@@ -1,0 +1,22 @@
+
+
+
+h1 { 
+    text-shadow: 2px 2px; 
+}
+
+.row {
+    background-color: aliceblue; 
+}
+
+body {
+    font-family: 'Audiowide', sans-serif;
+}
+
+
+footer {
+    text-align: center; 
+    padding: 3px;
+    background-color: aliceblue; 
+    color: white;
+}

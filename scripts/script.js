@@ -1,0 +1,1 @@
+console.log("The secret word is chair.")
