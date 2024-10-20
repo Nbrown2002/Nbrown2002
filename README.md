@@ -1,5 +1,7 @@
 ## Hi there 👋
-Welcome to my Profile. 
+Welcome to my Profile. My name is Noah Brown and I am a aspiring IT Specialist. Below
+is an accompanying link to access my Developer Website that details information about my 
+previous projects and certifications. 
 <!--
 **Nbrown2002/Nbrown2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
